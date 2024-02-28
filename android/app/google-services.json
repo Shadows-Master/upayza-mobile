@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649171080633",
+    "project_id": "upayza-79112",
+    "storage_bucket": "upayza-79112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649171080633:android:522dc1159212fb60ced268",
+        "android_client_info": {
+          "package_name": "com.shadows.upayza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd0HRyuSF7pjWctTi8u44XWbEoWZWvZpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
